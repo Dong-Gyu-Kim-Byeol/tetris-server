@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\UI">
+      <UniqueIdentifier>{bf2c4d65-a0eb-4812-b97a-78544e593819}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\ColorBlock">
+      <UniqueIdentifier>{fd77704a-3935-44ce-ba2a-8947d5790dba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="헤더.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="error.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="network.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\IMG\blue.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\gray.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\green.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\guide.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\purple.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\red.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\white.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\yellow.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\orange.bmp">
+      <Filter>리소스 파일\ColorBlock</Filter>
+    </Image>
+    <Image Include="..\IMG\game.bmp">
+      <Filter>리소스 파일\UI</Filter>
+    </Image>
+    <Image Include="..\IMG\GAME_OVER.bmp">
+      <Filter>리소스 파일\UI</Filter>
+    </Image>
+    <Image Include="..\IMG\logo.bmp">
+      <Filter>리소스 파일\UI</Filter>
+    </Image>
+    <Image Include="..\IMG\menu.bmp">
+      <Filter>리소스 파일\UI</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

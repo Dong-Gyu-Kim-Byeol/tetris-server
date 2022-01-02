@@ -1,0 +1,16 @@
+﻿  Block.cpp
+  GameScene.cpp
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(76,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(98,30): warning C4018: '>': signed/unsigned mismatch
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(160,2): warning C4018: '<=': signed/unsigned mismatch
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(105,6): warning C4101: 'retval': unreferenced local variable
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(257,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(700,30): warning C4018: '>': signed/unsigned mismatch
+  main.cpp
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\main.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\main.cpp(284,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WINAPI_TETRIS.vcxproj -> D:\팀프\2조 네트팀프\cpp-tetris-master_sj_1125\x64\Release\WINAPI_TETRIS.exe

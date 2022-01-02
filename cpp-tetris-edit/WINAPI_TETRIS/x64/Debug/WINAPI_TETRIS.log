@@ -1,0 +1,8 @@
+﻿  GameScene.cpp
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(75,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(97,30): warning C4018: '>': signed/unsigned mismatch
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(159,2): warning C4018: '<=': signed/unsigned mismatch
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(104,6): warning C4101: 'retval': unreferenced local variable
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(256,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\팀프\cpp-tetris-master_sj_1125\WINAPI_TETRIS\GameScene.cpp(699,30): warning C4018: '>': signed/unsigned mismatch
+  WINAPI_TETRIS.vcxproj -> D:\팀프\cpp-tetris-master_sj_1125\x64\Debug\WINAPI_TETRIS.exe

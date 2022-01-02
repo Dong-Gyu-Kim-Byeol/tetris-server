@@ -1,0 +1,12 @@
+﻿  error.cpp
+D:\팀프\2조 네트팀프\Server_1125\Server\error.cpp(17,14): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'LPVOID'
+D:\팀프\2조 네트팀프\Server_1125\Server\error.cpp(32,14): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 2 has type 'LPVOID'
+  main.cpp
+  NetworkRecvThread.cpp
+  SendGameInit.cpp
+  ServerLoopThread.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 491 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Server.vcxproj -> D:\팀프\2조 네트팀프\Server_1125\x64\Release\Server.exe
